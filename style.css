@@ -1,0 +1,22 @@
+body.white{
+  background-color:white;
+  color:black;
+}
+body.black{
+  background-color:black;
+  color:white;
+}
+#logo {
+  width:100px;
+}
+.container{
+  padding-top:20px;
+}
+#control{
+  margin-bottom:40px;
+}
+header img{
+    width:5em;
+    float:right;
+    border-radius:10%;
+}
